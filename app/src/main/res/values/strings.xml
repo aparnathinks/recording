@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">recording</string>
+    <string name="on">on</string>
+    <string name="playOn">\"playOn\"</string>
+    <string name="recordOn">\"recordOn\"</string>
+    <string name="recordOff">\"recordOff\"</string>
+    <string name="playOff">\"playOff\"</string>
+</resources>
